@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Phudu:wght@500&family=Ubuntu:wght@500&display=swap');
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.regStyle{
+    padding: 20px; border: 2px solid #c0c0c0; border-radius: 10px;
+}
